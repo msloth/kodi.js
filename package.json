@@ -1,5 +1,5 @@
 {
-  "name": "kodi",
+  "name": "kodi-kontroll",
   "version": "0.1.0",
   "description": "Module to interact with a Kodi media player.",
   "main": "index.js",
